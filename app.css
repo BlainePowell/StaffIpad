@@ -1,0 +1,28 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.body-text {
+    display: flex;
+    font-family: "montserrat" , sans-serif;
+    align-items: center;
+    justify-content: center;
+    margin-top: 250px;
+}
+
+nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    top: 0%;
+    height: 11vh;
+    min-height: 8vh;
+    background-color: #cc0200;
+}
+
+.image {
+    width: 300;
+    margin-left: 0%;
+}
